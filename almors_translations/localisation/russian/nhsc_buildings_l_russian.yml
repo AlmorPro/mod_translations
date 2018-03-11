@@ -1,0 +1,45 @@
+﻿########################################
+# LOC_VER: ESC_R5 CP: UTF-8-BOM
+# TIMESTAMP: 09.03.2018 21:09:33
+# YML PARSER 0.4.1 © Spectrum
+########################################
+
+l_russian:
+
+ ### ENGLISH LOCALIZATION
+ nhsc_building_centralresearchbureau: "Центральное исследовательское бюро"
+ nhsc_building_centralresearchbureau_desc: "Место, где величайшие умы нашей империи могут работать сообща и продвигать науку вперёд."
+ nhsc_building_zeropointpowerplant_1: "Электростанция нулевой точки"
+ nhsc_building_zeropointpowerplant_1_desc: "Электростанция, черпающая энергию вакуума."
+ nhsc_building_zeropointpowerplant_2: "Улучшенная электростанция нулевой точки"
+ nhsc_building_zeropointpowerplant_2_desc: "Улучшенная версия электростанции нулевой точки."
+ nhsc_building_enigmatic_tower: "Сборщик загадочной энергии"
+ nhsc_building_enigmatic_tower_desc: "Высокое наземное сооружение, которое абсорбирует выделяемую загадочными энергоядрами энергию."
+ nhsc_building_magmaminer_1: "Предприятие по разработке мантии"
+ nhsc_building_magmaminer_1_desc: "Предприятие, производящее большое количество минералов путём непосредственной разработки расплавленного планетарного ядра."
+ nhsc_building_magmaminer_2: "Продвинутое предприятие по разработке мантии"
+ nhsc_building_magmaminer_2_desc: "Усовершенствованный проект предприятия по разработке мантии."
+ nhsc_building_culture_nexus: "Культурный центр"
+ nhsc_building_culture_nexus_desc: "Место, где граждане нашей империи могут узнать больше о галактике и культурах народов её населяющих."
+ nhsc_building_materials_laboratory: "Лаборатория продвинутых материалов"
+ nhsc_building_materials_laboratory_desc: "Большая лаборатория, ведущая иссоедования новых материалов как для специальных проектов, так и для повседневного использования."
+ nhsc_building_technology_institute: "Технологический институт"
+ nhsc_building_technology_institute_desc: "Большой научный комплекс, предназначенный для развития технологий нашей империи."
+ nhsc_building_frontier_settlement: "Пограничное поселение"
+ nhsc_building_frontier_settlement_desc: "Комплекс сооружений, предоставляющий всё необходимое для развивающейся колонии."
+ nhsc_building_frontier_farm: "Пограничная ферма"
+ nhsc_building_frontier_farm_desc: "Сельскохозяйственный комплекс для развивающейся колонии."
+ nhsc_building_frontier_mine: "Пограничная шахта"
+ nhsc_building_frontier_mine_desc: "Горнодобывающий комплекс для развивающейся колонии."
+ nhsc_building_frontier_power_station: "Пограничная электростанция"
+ nhsc_building_frontier_power_station_desc: "Комплекс силовых установок, снабжающий колонию энергией."
+ nhsc_building_dark_matter_drawer: "Реактор на тёмной материи"
+ nhsc_building_dark_matter_drawer_desc: "Специализированное предприятие, предназначенное для производства и хранения тёмной материи."
+ nhsc_building_neutronium_foundry: "Нейтрониевый завод"
+ nhsc_building_neutronium_foundry_desc: "Специализированные гравитационные прессы, преобразующие обычное вещество в сверхплотный нейтроний."
+ nhsc_building_stellar_energy_tower: "Башня звёздной энергии"
+ nhsc_building_stellar_energy_tower_desc: "Массивная башня, преобразующая лёгкие химические элементы в чистую энергию подобно миниатюрному солнцу."
+ nhsc_building_quantum_node: "Узел квантовых вычислений"
+ nhsc_building_quantum_node_desc: "Специализированная вычислительная сеть, созданная по архитектуре процессоров Машины бесконечности."
+ nhsc_building_watcher: "Страж Вечности"
+ nhsc_building_watcher_desc: "Массивный комплекс, способный изменять саму реальность и позволяющий свободно смотреть в прошлое, настоящее и будущее."

@@ -1,0 +1,144 @@
+﻿########################################
+# LOC_VER: ESC_R5 CP: UTF-8-BOM
+# TIMESTAMP: 09.03.2018 21:09:33
+# YML PARSER 0.4.1 © Spectrum
+########################################
+
+l_russian:
+
+ ### ENGLISH LOCALIZATION
+ ########################################
+ ###       Advanced Combat Laser      ###
+ ########################################
+ NHSC_LASER_6: "Улучшенный боевой лазер"
+ NHSC_LASER_6_DESC: "Следующее поколение боевых лазеров, обладающее значительно увеличенной эффективностью."
+ SMALL_NHSC_LASER_6: "Малый улучшенный боевой лазер"
+ SMALL_NHSC_LASER_6_DESC: "$NHSC_LASER_6_DESC$"
+ MEDIUM_NHSC_LASER_6: "Средний улучшенный боевой лазер"
+ MEDIUM_NHSC_LASER_6_DESC: "$NHSC_LASER_6_DESC$"
+ LARGE_NHSC_LASER_6: "Большой улучшенный боевой лазер"
+ LARGE_NHSC_LASER_6_DESC: "$NHSC_LASER_6_DESC$"
+ ########################################
+ ###            Aurora Laser          ###
+ ########################################
+ NHSC_LASER_7: "Лазер "Аврора""
+ NHSC_LASER_7_DESC: "Прекрасный как звезда, смертоносный как адское пламя."
+ SMALL_NHSC_LASER_7: "Малый лазер "Аврора""
+ SMALL_NHSC_LASER_7_DESC: "$NHSC_LASER_7_DESC$"
+ MEDIUM_NHSC_LASER_7: "Средний лазер "Аврора""
+ MEDIUM_NHSC_LASER_7_DESC: "$NHSC_LASER_7_DESC$"
+ LARGE_NHSC_LASER_7: "Большой лазер "Аврора""
+ LARGE_NHSC_LASER_7_DESC: "$NHSC_LASER_7_DESC$"
+ ########################################
+ ###        Tachyon Disruptor         ###
+ ########################################
+ NHSC_DISRUPTOR_4: "Тахионный дезинтегратор"
+ NHSC_DISRUPTOR_4_DESC: "Следующее поколение дезинтеграторов, использующих тахионы для нанесение повреждений как броне, так и щитам."
+ SMALL_NHSC_DISRUPTOR_4: "Малый тахионный дезинтегратор"
+ SMALL_NHSC_DISRUPTOR_4_DESC: "$NHSC_DISRUPTOR_4_DESC$"
+ MEDIUM_NHSC_DISRUPTOR_4: "Средний тахионный дезинтегратор"
+ MEDIUM_NHSC_DISRUPTOR_4_DESC: "$NHSC_DISRUPTOR_4_DESC$"
+ LARGE_NHSC_DISRUPTOR_4: "Большой тахионный дезинтегратор"
+ LARGE_NHSC_DISRUPTOR_4_DESC: "$NHSC_DISRUPTOR_4_DESC$"
+ ########################################
+ ###         Disruptor Lance          ###
+ ########################################
+ NHSC_DISRUPTOR_5: "Дезинтегрирующее копьё"
+ NHSC_DISRUPTOR_5_DESC: "Луч дезинтегратора, сфокусированный в мощный копьеподобный пучок."
+ SMALL_NHSC_DISRUPTOR_5: "Малое дезинтегрирующее копьё"
+ SMALL_NHSC_DISRUPTOR_5_DESC: "$NHSC_DISRUPTOR_5_DESC$"
+ MEDIUM_NHSC_DISRUPTOR_5: "Среднее дезинтегрирующее копьё"
+ MEDIUM_NHSC_DISRUPTOR_5_DESC: "$NHSC_DISRUPTOR_5_DESC$"
+ LARGE_NHSC_DISRUPTOR_5: "Большое дезинтегрирующее копьё"
+ LARGE_NHSC_DISRUPTOR_5_DESC: "$NHSC_DISRUPTOR_5_DESC$"
+ ########################################
+ ###      Advanced Plasma Cannon      ###
+ ########################################
+ NHSC_PLASMA_4: "Улучшенная плазменная пушка"
+ NHSC_PLASMA_4_DESC: "Улучшенная плазменная пушка, способная формировать более стабильные кластеры плазмы и, как следствие, наносить больше урона своим целям."
+ SMALL_NHSC_PLASMA_4: "Малая плазменная пушка"
+ SMALL_NHSC_PLASMA_4_DESC: "$NHSC_PLASMA_4_DESC$"
+ MEDIUM_NHSC_PLASMA_4: "Средняя плазменная пушка"
+ MEDIUM_NHSC_PLASMA_4_DESC: "$NHSC_PLASMA_4_DESC$"
+ LARGE_NHSC_PLASMA_4: "Большая плазменная пушка"
+ LARGE_NHSC_PLASMA_4_DESC: "$NHSC_PLASMA_4_DESC$"
+ ########################################
+ ###        Dragonbreath Cannon       ###
+ ########################################
+ NHSC_PLASMA_5: "Орудие "Дыхание дракона""
+ NHSC_PLASMA_5_DESC: "Орудие, пучки плазмы которого столь же горячи, сколь пламя мифических драконов."
+ SMALL_NHSC_PLASMA_5: "Малое орудие "Дыхание дракона""
+ SMALL_NHSC_PLASMA_5_DESC: "$NHSC_PLASMA_5_DESC$"
+ MEDIUM_NHSC_PLASMA_5: "Среднее орудие "Дыхание дракона""
+ MEDIUM_NHSC_PLASMA_5_DESC: "$NHSC_PLASMA_5_DESC$"
+ LARGE_NHSC_PLASMA_5: "Большое орудие "Дыхание дракона""
+ LARGE_NHSC_PLASMA_5_DESC: "$NHSC_PLASMA_5_DESC$"
+ ########################################
+ ###        Antimatter Launcher       ###
+ ########################################
+ NHSC_ENERGY_TORPEDO_3: "Пусковая установка антиматерии"
+ NHSC_ENERGY_TORPEDO_3_DESC: "Новое поколение энергетических пусковых установок, полагающееся на мощь реакции аннигиляции материи-антиматерии."
+ ########################################
+ ###        Dark Matter Launcher      ###
+ ########################################
+ NHSC_ENERGY_TORPEDO_4: "Пусковая установка тёмной материи"
+ NHSC_ENERGY_TORPEDO_4_DESC: "Энергетический снаряд, уничтожающий свою цель энергией распада тёмной материи."
+ ########################################
+ ###     Lightstorm Point Defense     ###
+ ########################################
+ NHSC_LIGHTSTORM_PD: "Система ПКО "Гроза""
+ NHSC_LIGHTSTORM_PD_DESC: "Чрезвычайно эффективная лазерная система ПКО."
+ ########################################
+ ###      Improved Tachyon Lance      ###
+ ########################################
+ NHSC_PARTICLE_LANCE_3: "Улучшенное тахионное копьё"
+ NHSC_PARTICLE_LANCE_3_DESC: "Следующее поколение тахионного копья, оснащённое улучшенным фокусирующим массивом."
+ ########################################
+ ###    Hypercharged Tachyon Lance    ###
+ ########################################
+ NHSC_PARTICLE_LANCE_4: "Усиленное тахионное копьё"
+ NHSC_PARTICLE_LANCE_4_DESC: "Усилив накопительные кольца излучателей корпускулярных копий мы можем сделать наносимый ими урон ещё большим."
+ ########################################
+ ###       Light of Destruction       ###
+ ########################################
+ NHSC_PARTICLE_LANCE_TITANIC: ""Свет разрушения""
+ NHSC_PARTICLE_LANCE_TITANIC_DESC: "Лучшее корпускулярное копьё из возможных."
+ ########################################
+ ###         Lightning Cannon         ###
+ ########################################
+ NHSC_ARC_EMITTER_3: "Молниевая пушка"
+ NHSC_ARC_EMITTER_3_DESC: "Улучшенная версия дугового излучателя, генерирующая мощные электрические разряды."
+ ########################################
+ ###            Arc Cannon            ###
+ ########################################
+ NHSC_ARC_EMITTER_4: "Дуговое орудие"
+ NHSC_ARC_EMITTER_4_DESC: "Более мощная версия молниевой пушки, способной поражать даже самые устойчивые цели."
+ ########################################
+ ###          Divine Thunder          ###
+ ########################################
+ NHSC_ARC_EMITTER_TITANIC: ""Божественный гром""
+ NHSC_ARC_EMITTER_TITANIC_DESC: "Отголоски Небесных Штормов, обрушивающиеся на наших врагов не знающей пощады силой."
+ NHSC_WAVEMOTIONGUN_1: "Волновое орудие"
+ NHSC_WAVEMOTIONGUN_1_DESC: "Использование специализированных выхлопных шахт позволяет временно перенаправить тягу двигателя и преобразовать её в смертоносное копьё, способное уничтожить всё, чему не повезло оказаться на его пути."
+ NHSC_WAVEMOTIONGUN_2: "Пространственно-волновое орудие"
+ NHSC_WAVEMOTIONGUN_2_DESC: "Улучшенная версия волнового орудия, оснащённая более эффективной системой фокусировки, увеличивающей точность и размер наносимого урона."
+ NHSC_WAVEMOTIONGUN_3: "Титаническое пространственно-волновое орудие"
+ NHSC_WAVEMOTIONGUN_3_DESC: "Увеличенная версия пространственно-волнового орудия."
+ ########################################
+ ###        Arc-en-Ciel Cannon        ###
+ ########################################
+ NHSC_ARC_EN_CIEL: "Орудие "Арк-эн-Сиэл""
+ NHSC_ARC_EN_CIEL_DESC: "Ужасающее орудие, способное запечатать свою цель в пространственном кармане и заставить последний схлопнуться, уничтожив все следы её существования."
+ NHSC_ARC_EN_CIEL_TITANIC: "$NHSC_ARC_EN_CIEL$"
+ NHSC_ARC_EN_CIEL_TITANIC_DESC: "$NHSC_ARC_EN_CIEL_DESC$"
+ ########################################
+ ###       Chrono-Vortex Cannon       ###
+ ########################################
+ NHSC_CHRONO_CANNON: "Генератор хроно-воронок"
+ NHSC_CHRONO_CANNON_DESC: "Это устрашающее орудие буквально разрывает на части вражеские корабли, создавая области нестабильности в пространственно-временном континууме."
+ SMALL_NHSC_CHRONO_CANNON: "Малый генератор хроно-воронок"
+ SMALL_NHSC_CHRONO_CANNON_DESC: "$NHSC_CHRONO_CANNON_DESC$"
+ MEDIUM_NHSC_CHRONO_CANNON: "Средний генератор хроно-воронок"
+ MEDIUM_NHSC_CHRONO_CANNON_DESC: "$NHSC_CHRONO_CANNON_DESC$"
+ LARGE_NHSC_CHRONO_CANNON: "Большой генератор хроно-воронок"
+ LARGE_NHSC_CHRONO_CANNON_DESC: "$NHSC_CHRONO_CANNON_DESC$"

@@ -1,0 +1,52 @@
+﻿l_russian:
+
+ap_fortresses:0 "Непроницаемая крепость"
+ap_blitzkrieg:0 "Блицкриг"
+ap_prosperity:0 "Земля изобилия"
+ap_fanatic_coloniser:0 "Колониальная страсть"
+ap_multiculturalism:0 "Мультикультурная утопия"
+
+ap_fortresses_desc:0 "Раздвиньте ограничения инженерии оборонительных сооружений и превратите наше галактическую империю в гигантсткую сеть крепостей."
+ap_blitzkrieg_desc:0 "Реформируйте наш флот и его офицерский корпус в более гладкую, быструю и смертоносную силу, способную напасть на наших врагов с непревзойденной скоростью."
+ap_prosperity_desc:0 "Начните новую главу в истории нашей страны, превратив наши планеты в живые Элизиумы и по-настоящему достигните цели процветания для всех."
+ap_fanatic_coloniser_desc:0 "Покиньте границы родной планеты и позваольте нашим особям достичь своей судьбы, распространяясь по галактике."
+ap_multiculturalism_desc:0 "Привлеките лучших талантов из всей галактики, чтобы присоединиться к нашему проекту к мультикультурной утопии."
+
+ap_fortresses_effects_desc:0 "$MOD_SHIP_HOME_TERRITORY_FIRE_RATE_MULT$: §G+20%§!\n$shipclass_military_station_build_cost_mult$: §G-50%§!\nСодержание военных станций: §G-50%§!\nУрон военных станций и космопортов: §G+75%§!\nПрочность военных станций и космопортов: §G+75%§!"
+ap_blitzkrieg_effects_desc:0 "Скорость атаки на враждебной территории: §G+20%§!\n$MOD_SHIP_COMBAT_SPEED_MULT$: §G+15%§!\n$MOD_SHIP_SPEED_MULT$: §G+15%§!\n$MOD_SHIP_INTERSTELLAR_SPEED_MULT$: §G+25%§!"
+
+requires_orbital_hydroponics:1 "$TRIGGER_FAIL$Требует £society  §Y$tech_orbital_hydroponics$§!."
+requires_tech_solar_panel_network:1 "$TRIGGER_FAIL$Треубует технологию £physics  §Y$tech_solar_panel_network$§!."
+requires_space_defense_station_1:1 "$TRIGGER_FAIL$Треубует технологию £engineering  §Y$tech_space_defense_station_2$§!."
+requires_spaceport_5:1 "$TRIGGER_FAIL$Треубует технологию £engineering  §Y$tech_spaceport_5$§!."
+requires_not_ap_ligne_maginot:1 "$TRIGGER_FAIL$Не должен иметь перк возвышения §Y$ap_blitzkrieg$§!."
+requires_not_ap_blitzkrieg:1 "$TRIGGER_FAIL$Не должен иметь перк возвышения §Y$ap_fortresses$§!."
+rare_techs_easier:0 "Редкие технологии чаще будут доступны для исследования."
+no_xenophobes:1 "$TRIGGER_FAIL$Недоступно для империй §Yxenophobic§!."
+refugees_allowed_needed:1 "$TRIGGER_FAIL$Все беженцы должны приветствоваться."
+slavery_allowed_fail:1 "$TRIGGER_FAIL$Рабство не допускается."
+ap_population_control_unlocks:1 "Разблокирует технологию £society  §Y$tech_artificial_moral_codes$§!."
+must_be_authoritarian:1 "$TRIGGER_FAIL$Доступно только для §Yauthoritarian§! империй."
+hive_mind_no:1 "$TRIGGER_FAIL$Разум улья не может охватить мультикультуризм"
+must_have_resettlement_allowed:1 "$TRIGGER_FAIL$Переселение должно быть разрешено."
+ap_spaceport_unlocks:1 "Разблокирует несколько модулей космопорта и дает §Yadvanced modules§! в качестве возможных исследований."
+ap_prosperity_unlocks:1 "Разблокирует несколько экономических строений и дает §Yadvanced buildings§! в качестве возможных исследований."
+ap_master_builders_unlocks:1 "Разблокирует £engineering §Y$tech_mega_engineering$§! технологию в качестве возможного исследования."
+
+country_resource_society_research_mult:1 "Исследования общества"
+country_resource_engineering_research_mult:1 "Инженерные исследования"
+
+ap_fortresses_unlocks:1 "Разблокирует Крепости и открывает доступ к исследованию Мега-крепостей." 
+  
+ #########################################################################################################
+ # Переведено по версии mr.TPATATA, переводы сделанные с душой (с)
+ #########################################################################################################
+ #
+ # Вы можете копировать, изменять, распространять данный перевод до тех пор пока вы 
+ # не используете монетизированный способ распространения (платные файлообменники, платные ссылки и т.д.) 
+ # Под условие также попадают переводы сделанные на основе данного перевода.
+ #
+ # Если вы решили сделать свою версию перевода, взяв этот за основу, обязательно укажите в нём:
+ # "За основу взят перевод от mr.TPATATA http://steamcommunity.com/sharedfiles/filedetails/?id=1209892871" 
+ #
+ #########################################################################################################

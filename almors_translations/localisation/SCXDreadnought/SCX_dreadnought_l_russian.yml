@@ -1,0 +1,85 @@
+l_russian:
+
+ ####################################
+ # SHIPS/STRUCTURES
+ ####################################
+
+ SCX_DREADNOUGHT: "Дредноут"
+
+ SCX_Dreadnought: "Дредноут"
+ SCX_Dreadnought_plural: "Дредноуты"
+ 
+ ###################################
+ # SHIP COMPONENTS
+ ###################################
+ 
+ SCX_DREADNOUGHT_FISSION_REACTOR:1 "$FISSION_REACTOR$"
+ SCX_DREADNOUGHT_FUSION_REACTOR:1 "$FUSION_REACTOR$"
+ SCX_DREADNOUGHT_COLD_FUSION_REACTOR:1 "$COLD_FUSION_REACTOR$"
+ SCX_DREADNOUGHT_ANTIMATTER_REACTOR:1 "$ANTIMATTER_REACTOR$"
+ SCX_DREADNOUGHT_ZERO_POINT_REACTOR:1 "$ZERO_POINT_REACTOR$"
+ SCX_DREADNOUGHT_DARK_MATTER_REACTOR:1 "$DARK_MATTER_REACTOR$"
+ 
+ SCX_DREADNOUGHT_SHIP_THRUSTER_1:0 "$SHIP_THRUSTER_1$"
+ SCX_DREADNOUGHT_SHIP_THRUSTER_1_DESC:0 "$SHIP_THRUSTER_1_DESC$"
+ SCX_DREADNOUGHT_SHIP_THRUSTER_2:0 "$SHIP_THRUSTER_2$"
+ SCX_DREADNOUGHT_SHIP_THRUSTER_2_DESC:0 "$SHIP_THRUSTER_2_DESC$"
+ SCX_DREADNOUGHT_SHIP_THRUSTER_3:0 "$SHIP_THRUSTER_3$"
+ SCX_DREADNOUGHT_SHIP_THRUSTER_3_DESC:0 "$SHIP_THRUSTER_3_DESC$"
+ SCX_DREADNOUGHT_SHIP_THRUSTER_4:0 "$SHIP_THRUSTER_4$"
+ SCX_DREADNOUGHT_SHIP_THRUSTER_4_DESC:0 "$SHIP_THRUSTER_4_DESC$"
+ SCX_DREADNOUGHT_SHIP_THRUSTER_5:0 "$SHIP_THRUSTER_5$"
+ SCX_DREADNOUGHT_SHIP_THRUSTER_5_DESC:0 "$SHIP_THRUSTER_5_DESC$"
+ 
+ ###################################
+ # SHIP COMPUTERS
+ ###################################
+ 
+ SCX_COMBAT_COMPUTER_DREADNOUGHT_DEFAULT:0 "Базовый боевой компьютер"
+ SCX_COMBAT_COMPUTER_DREADNOUGHT_BASIC:0 "Боевой компьютер (Дредноут)"
+ SCX_COMBAT_COMPUTER_DREADNOUGHT_ADVANCED:0 "Продвинутый боевой компьютер (Дредноут)"
+ SCX_COMBAT_COMPUTER_DREADNOUGHT_SAPIENT:0 "Разумный боевой компьютер (Дредноут)"
+ SCX_COMBAT_COMPUTER_DREADNOUGHT_AUTONOMOUS:0 "Искусственный корабельный интеллект (Дредноут)"
+ SCX_COMBAT_COMPUTER_DREADNOUGHT_PRECOG:0 "Прекогнитивный интерфейс (Дредноут)"
+ 
+ SCX_DREADNOUGHT_DEF_BEHAVIOR_DESC:0 "§HРежим джагернаута:§! Корабль будет продвигаться медленно и сосредоточиться на аналогичных и сильно бронированных объектах."
+ 
+ ####################################
+ # TECH STUFF
+ ####################################
+ 
+ tech_scx_dreadnought_1: "Дредноуты"
+ tech_scx_dreadnought_1_desc: "Новые достижения в области военной макротехники позволяют строить суда класса Дредноут."
+
+ TECH_UNLOCK_SCX_DREADNOUGHT_CONSTRUCTION_TITLE: "§HРазблокировать тип судна:§! Дредноут"
+ TECH_UNLOCK_SCX_DREADNOUGHT_CONSTRUCTION_DESC: "§HДредноут§!\nКласс боевых кораблей, предназначенный для использования в качестве платформы тяжелого вооружения, на который возможно установить разрушительное оружие дальнего действия и мощные реакторы, необходимые для его эксплуатации. Устойчивость дредноута и невообразимая огневая мощь могут уступить только возможностям Титана."
+ 
+ tech_scx_dreadnought_hull_1:0 "Улучшеный корпус дредноута"
+ tech_scx_dreadnought_hull_1_desc:0 "Достижения в технике строительства кораблей позволят создавать более прочные и надежные корпуса дредноутов."
+ tech_scx_dreadnought_hull_2:0 "Продвинутый корпус дредноута"
+ tech_scx_dreadnought_hull_2_desc:0 "Корпус дредноута новейшего поколения обладает оптимизированным полем структурной целостности и улучшенными надстройками"
+ tech_scx_dreadnought_build_speed:0 "Стандартизированые шаблоны дредноута"
+ tech_scx_dreadnought_build_speed_desc:0 "Создание новых стандартов для моделирования и строительства дредноутов значительно повышает эффективность производственного процесса."
+ 
+ ####################################
+ # Dynamic Modifiers
+ ####################################
+ 
+ shipsize_SCX_Dreadnought_build_speed_mult: "Скорость строительства дредноута"
+ shipsize_SCX_Dreadnought_build_cost_mult: "Стоимость строительства дредноута
+ shipsize_SCX_Dreadnought_hull_add: "Прочность корпуса дредноута"
+
+ ####################################
+ # SHIP SECTIONS
+ ####################################
+ 
+ # Dreadnought
+ 
+ SCX_Dreadnought_BOW_M2S4: "Главный калибр бака"
+
+ SCX_Dreadnought_MID1_L3: "Шкафут буря"
+ SCX_Dreadnought_MID1_L2M2_1: "Шкафут жнец"
+ SCX_Dreadnought_MID1_L1M4_1: "Шкафут очиститель"
+
+ SCX_Dreadnought_STERN_L1: "Артилерия юта"
+ SCX_Dreadnought_STERN_M2: "Залповый огонь юта"

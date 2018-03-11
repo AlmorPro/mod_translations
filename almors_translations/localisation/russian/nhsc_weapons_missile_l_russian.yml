@@ -1,0 +1,70 @@
+﻿########################################
+# LOC_VER: ESC_R5 CP: UTF-8-BOM
+# TIMESTAMP: 09.03.2018 21:09:33
+# YML PARSER 0.4.1 © Spectrum
+########################################
+
+l_russian:
+
+ ### ENGLISH LOCALIZATION
+ ########################################
+ ###        Missiles : normal         ###
+ ########################################
+ NHSC_MISSILE_6: "Ракеты "Джокер""
+ NHSC_MISSILE_6_DESC: "Мощные и маневренные ракеты."
+ NHSC_MISSILE_7: "Призрачная ракета"
+ NHSC_MISSILE_7_DESC: "Смерть приходит без предупреждения."
+ ########################################
+ ###        Missiles : swarmer        ###
+ ########################################
+ NHSC_SWARMER_MISSILES_3: "Ракеты "Тайфун""
+ NHSC_SWARMER_MISSILES_3_DESC: "Следующее поколение ракетного роя, подавляющее вражеские системы ПКО своим числом."
+ NHSC_SWARMER_MISSILES_4: "Ракеты "Ураган""
+ NHSC_SWARMER_MISSILES_4_DESC: ""Ракетный обстрел" "Макросса", ставший реальностью."
+ ########################################
+ ###        Missiles : torpedo        ###
+ ########################################
+ NHSC_TORPEDO_4: "Опустошающая торпеда"
+ NHSC_TORPEDO_4_DESC: "Новое поколение торпед, способных нанести беспрецедентно высокий урон."
+ NHSC_TORPEDO_5: "Торпеда "Уничтожитель""
+ NHSC_TORPEDO_5_DESC: "Мощнейшая из представимых традиционных торпед."
+ NHSC_CORROSIVE_WARHEAD: "Коррозионная торпеда"
+ NHSC_CORROSIVE_WARHEAD_DESC: "Ужасающее орудие, способное буквально разорвать в клочья сам пространственно-временной континуум."
+ ########################################
+ ###        Missiles : plasma         ###
+ ########################################
+ NHSC_PLASMA_MISSILE_1: "Плазменные ракеты"
+ NHSC_PLASMA_MISSILE_1_DESC: "Сгусток плазмы, ведущий цель подобно ракете."
+ SMALL_NHSC_PLASMA_MISSILE_1: "Малые плазменные ракеты"
+ SMALL_NHSC_PLASMA_MISSILE_1_DESC: "$NHSC_PLASMA_MISSILE_1_DESC$"
+ MEDIUM_NHSC_PLASMA_MISSILE_1: "Средние плазменные ракеты"
+ MEDIUM_NHSC_PLASMA_MISSILE_1_DESC: "$NHSC_PLASMA_MISSILE_1_DESC$"
+ LARGE_NHSC_PLASMA_MISSILE_1: "Большие плазменные ракеты"
+ LARGE_NHSC_PLASMA_MISSILE_1_DESC: "$NHSC_PLASMA_MISSILE_1_DESC$"
+ NHSC_PLASMA_MISSILE_2: "Улучшенные плазменные ракеты"
+ NHSC_PLASMA_MISSILE_2_DESC: "Улучшенная версия плазменных ракет, делающая их более быстрыми, опасными и маневренными."
+ SMALL_NHSC_PLASMA_MISSILE_2: "Малые улучшенные плазменные ракеты"
+ SMALL_NHSC_PLASMA_MISSILE_2_DESC: "$NHSC_PLASMA_MISSILE_2_DESC$"
+ MEDIUM_NHSC_PLASMA_MISSILE_2: "Средние улучшенные плазменные ракеты"
+ MEDIUM_NHSC_PLASMA_MISSILE_2_DESC: "$NHSC_PLASMA_MISSILE_2_DESC$"
+ LARGE_NHSC_PLASMA_MISSILE_2: "Большие улучшенные плазменные ракеты"
+ LARGE_NHSC_PLASMA_MISSILE_2_DESC: "$NHSC_PLASMA_MISSILE_2_DESC$"
+ NHSC_PLASMA_MISSILE_3: "Зажигательная ракета"
+ NHSC_PLASMA_MISSILE_3_DESC: "Обращает врагов в пепел."
+ SMALL_NHSC_PLASMA_MISSILE_3: "Малая зажигательная ракета"
+ SMALL_NHSC_PLASMA_MISSILE_3_DESC: "$NHSC_PLASMA_MISSILE_3_DESC$"
+ MEDIUM_NHSC_PLASMA_MISSILE_3: "Средняя зажигательная ракета"
+ MEDIUM_NHSC_PLASMA_MISSILE_3_DESC: "$NHSC_PLASMA_MISSILE_3_DESC$"
+ LARGE_NHSC_PLASMA_MISSILE_3: "Большая зажигательная ракета"
+ LARGE_NHSC_PLASMA_MISSILE_3_DESC: "$NHSC_PLASMA_MISSILE_3_DESC$"
+ ########################################
+ ###        Missiles : x-slot         ###
+ ########################################
+ NHSC_XMISSILE_1: "Боеголовка с экзотической материей"
+ NHSC_XMISSILE_1_DESC: "Особая боеголовка, способная доставить взрывчатую смесь экзотических частиц до поражаемой цели."
+ NHSC_XMISSILE_2: "Боеголовка со странной материей"
+ NHSC_XMISSILE_2_DESC: "Улучшенная версия боеголовки с экзотической материей, несущая в себе ещё более разрушительную боевую часть."
+ NHSC_XMISSILE_3: "Пусковая установка отражающих боеголовок"
+ NHSC_XMISSILE_3_DESC: "Ещё более мощные увеличенные ракеты, способные поражать даже самые стойкие цели."
+ NHSC_XMISSILE_3_TITANIC: "$NHSC_XMISSILE_3$"
+ NHSC_XMISSILE_3_DESC_TITANIC: "$NHSC_XMISSILE_3_DESC$"

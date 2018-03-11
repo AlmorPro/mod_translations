@@ -1,0 +1,58 @@
+﻿########################################
+# LOC_VER: ESC_R5 CP: UTF-8-BOM
+# TIMESTAMP: 09.03.2018 21:09:33
+# YML PARSER 0.4.1 © Spectrum
+########################################
+
+l_russian:
+
+ ### ENGLISH LOCALIZATION
+ ########################################
+ ###         Nanite Cannon            ###
+ ########################################
+ NHSC_NANITY_CANNON_1: "Нанитонесущее орудие"
+ NHSC_NANITY_CANNON_1_DESC: "Орудие, ведущее огонь пустотелыми снарядами, заполненными агрессивными нанитами-деконструкторами."
+ SMALL_NHSC_NANITY_CANNON_1: "Малое нанитонесущее орудие"
+ SMALL_NHSC_NANITY_CANNON_1_DESC: "$NHSC_NANITY_CANNON_1_DESC$"
+ MEDIUM_NHSC_NANITY_CANNON_1: "Среднее нанитонесущее орудие"
+ MEDIUM_NHSC_NANITY_CANNON_1_DESC: "$NHSC_NANITY_CANNON_1_DESC$"
+ LARGE_NHSC_NANITY_CANNON_1: "Большое нанитонесущее орудие"
+ LARGE_NHSC_NANITY_CANNON_1_DESC: "$NHSC_NANITY_CANNON_1_DESC$"
+ ########################################
+ ###      Improved Nanite Cannon      ###
+ ########################################
+ NHSC_NANITY_CANNON_2: "Улучшенное нанитонесущее орудие"
+ NHSC_NANITY_CANNON_2_DESC: "Улучшенная версия нанитонесущего орудия"
+ SMALL_NHSC_NANITY_CANNON_2: "Малое улучшенное нанитонесущее орудие"
+ SMALL_NHSC_NANITY_CANNON_2_DESC: "$NHSC_NANITY_CANNON_2_DESC$"
+ MEDIUM_NHSC_NANITY_CANNON_2: "Среднее улучшенное нанитонесущее орудие"
+ MEDIUM_NHSC_NANITY_CANNON_2_DESC: "$NHSC_NANITY_CANNON_2_DESC$"
+ LARGE_NHSC_NANITY_CANNON_2: "Большое улучшенное нанитонесущее орудие"
+ LARGE_NHSC_NANITY_CANNON_2_DESC: "$NHSC_NANITY_CANNON_2_DESC$"
+ ########################################
+ ###      Nanite Warhead Torpedo      ###
+ ########################################
+ NHSC_NANITY_TORPEDO_1: "Торпеда с нанитонесущими боеголовками"
+ NHSC_NANITY_TORPEDO_1_DESC: "Торпеда, способная доставить множество нанитов-расщепителей прямо на борт вражеского корабля."
+ ########################################
+ ###     Gray Goo Warhead Torpedo     ###
+ ########################################
+ NHSC_NANITY_TORPEDO_2: "Торпеда с серогелевой боеголовкой"
+ NHSC_NANITY_TORPEDO_2_DESC: "Улучшенная версия торпеды с нанитонесущими боеголовками, оснащённая более агрессивными нанитами."
+ ########################################
+ ### Nanite Warhead Rocket Artillery  ###
+ ########################################
+ NHSC_NANITY_XSLOT_1: "Ракетная артиллерия с нанитонесущими боеголовками"
+ NHSC_NANITY_XSLOT_1_DESC: "Увеличенная версия нанитонесущей торпеды."
+ ########################################
+ ###  Nanite Warhead Barrage System   ###
+ ########################################
+ NHSC_NANITY_XSLOT_2: "Заградительная система с нанитонесущими боеголовками"
+ NHSC_NANITY_XSLOT_2_DESC: "Улучшенная версия ракетной артиллерии с нанитонесущими боеголовками."
+ NHSC_NANITY_XSLOT_2_TITANIC: "$NHSC_NANITY_XSLOT_2$"
+ NHSC_NANITY_XSLOT_2_TITANIC_DESC: "$NHSC_NANITY_XSLOT_2_DESC$"
+ ########################################
+ ###          Nanite Bombers          ###
+ ########################################
+ NHSC_NANITY_STRIKECRAFT: "Нанитонесущие бомбардировщики"
+ NHSC_NANITY_STRIKECRAFT_DESC: "Штурмовики, вооружённые нанитонесущим оружием."
