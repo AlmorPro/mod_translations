@@ -39,7 +39,7 @@ l_russian:
  SCX_COMBAT_COMPUTER_DREADNOUGHT_BASIC:0 "Боевой компьютер (Дредноут)"
  SCX_COMBAT_COMPUTER_DREADNOUGHT_ADVANCED:0 "Продвинутый боевой компьютер (Дредноут)"
  SCX_COMBAT_COMPUTER_DREADNOUGHT_SAPIENT:0 "Разумный боевой компьютер (Дредноут)"
- SCX_COMBAT_COMPUTER_DREADNOUGHT_AUTONOMOUS:0 "Искусственный корабельный интеллект (Дредноут)"
+ SCX_COMBAT_COMPUTER_DREADNOUGHT_AUTONOMOUS:0 "Бортовой искусственный интеллект (Дредноут)"
  SCX_COMBAT_COMPUTER_DREADNOUGHT_PRECOG:0 "Прекогнитивный интерфейс (Дредноут)"
  
  SCX_DREADNOUGHT_DEF_BEHAVIOR_DESC:0 "§HРежим джагернаута:§! Корабль будет продвигаться медленно и сосредоточиться на аналогичных и сильно бронированных объектах."
@@ -54,11 +54,11 @@ l_russian:
  TECH_UNLOCK_SCX_DREADNOUGHT_CONSTRUCTION_TITLE: "§HРазблокировать тип судна:§! Дредноут"
  TECH_UNLOCK_SCX_DREADNOUGHT_CONSTRUCTION_DESC: "§HДредноут§!\nКласс боевых кораблей, предназначенный для использования в качестве платформы тяжелого вооружения, на который возможно установить разрушительное оружие дальнего действия и мощные реакторы, необходимые для его эксплуатации. Устойчивость дредноута и невообразимая огневая мощь могут уступить только возможностям Титана."
  
- tech_scx_dreadnought_hull_1:0 "Улучшеный корпус дредноута"
+ tech_scx_dreadnought_hull_1:0 "Улучшенный корпус дредноута"
  tech_scx_dreadnought_hull_1_desc:0 "Достижения в технике строительства кораблей позволят создавать более прочные и надежные корпуса дредноутов."
  tech_scx_dreadnought_hull_2:0 "Продвинутый корпус дредноута"
  tech_scx_dreadnought_hull_2_desc:0 "Корпус дредноута новейшего поколения обладает оптимизированным полем структурной целостности и улучшенными надстройками"
- tech_scx_dreadnought_build_speed:0 "Стандартизированые шаблоны дредноута"
+ tech_scx_dreadnought_build_speed:0 "Стандартизированные шаблоны дредноута"
  tech_scx_dreadnought_build_speed_desc:0 "Создание новых стандартов для моделирования и строительства дредноутов значительно повышает эффективность производственного процесса."
  
  ####################################
@@ -66,7 +66,7 @@ l_russian:
  ####################################
  
  shipsize_SCX_Dreadnought_build_speed_mult: "Скорость строительства дредноута"
- shipsize_SCX_Dreadnought_build_cost_mult: "Стоимость строительства дредноута
+ shipsize_SCX_Dreadnought_build_cost_mult: "Стоимость строительства дредноута"
  shipsize_SCX_Dreadnought_hull_add: "Прочность корпуса дредноута"
 
  ####################################
@@ -75,11 +75,11 @@ l_russian:
  
  # Dreadnought
  
- SCX_Dreadnought_BOW_M2S4: "Главный калибр бака"
+ SCX_Dreadnought_BOW_M2S4: "Главный калибр носовой палубы"
 
- SCX_Dreadnought_MID1_L3: "Шкафут буря"
- SCX_Dreadnought_MID1_L2M2_1: "Шкафут жнец"
- SCX_Dreadnought_MID1_L1M4_1: "Шкафут очиститель"
+ SCX_Dreadnought_MID1_L3: "Палуба бури"
+ SCX_Dreadnought_MID1_L2M2_1: "Палуба жнеца"
+ SCX_Dreadnought_MID1_L1M4_1: "Палуба очистителя"
 
- SCX_Dreadnought_STERN_L1: "Артилерия юта"
- SCX_Dreadnought_STERN_M2: "Залповый огонь юта"
+ SCX_Dreadnought_STERN_L1: "Кормовая артиллерия"
+ SCX_Dreadnought_STERN_M2: "Кормовая палуба залпового огня"

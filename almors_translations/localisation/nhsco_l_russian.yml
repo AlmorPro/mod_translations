@@ -1,0 +1,94 @@
+﻿l_russian:
+
+### RUSSIAN (ACTUALLY ENGLISH) LOCALIZATION
+
+########################################
+###            Components            ###
+########################################
+
+NHSC_FE_COMP_MAT_TITAN: "Интеллектуальный нейросетевой помощник"
+NHSC_FE_COMP_MAT_TITAN_DESC: "Невероятно продвинутый боевой компьютер обладающий самосознанием."
+NHSC_FE_COMP_MAT_BATTLECERUISER: "$NHSC_FE_COMP_MAT_TITAN$"
+NHSC_FE_COMP_MAT_BATTLECRUISER_DESC: "$NHSC_FE_COMP_MAT_TITAN_DESC$"
+NHSC_FE_COMP_MAT_ESCORT: "$NHSC_FE_COMP_MAT_TITAN$"
+NHSC_FE_COMP_MAT_ESCORT_DESC: "$NHSC_FE_COMP_MAT_TITAN_DESC$"
+
+NHSC_FE_COMP_SPI_TITAN: "Советник покрова"
+NHSC_FE_COMP_SPI_TITAN_DESC: "Спиритуальный советник, который помогает бороться с неверными."
+NHSC_FE_COMP_SPI_BATTLECRUISER: "$NHSC_FE_COMP_SPI_TITAN$"
+NHSC_FE_COMP_SPI_BATTLECRUISER_DESC: "$NHSC_FE_COMP_SPI_TITAN_DESC$"
+NHSC_FE_COMP_SPI_ESCORT: "$NHSC_FE_COMP_SPI_TITAN$"
+NHSC_FE_COMP_SPI_ESCORT_DESC: "$NHSC_FE_COMP_SPI_TITAN_DESC$"
+
+NHSC_FE_COMP_XPB_TITAN: "Двигатель ксеноцида"
+NHSC_FE_COMP_XPB_TITAN_DESC: "Боевой компьютер, оптимизированный для очистки галактики от недостойных пришельцев."
+NHSC_FE_COMP_XPB_BATTLECRUISER:  "$NHSC_FE_COMP_XPB_TITAN$"
+NHSC_FE_COMP_XPB_BATTLECRUISER_DESC: "$NHSC_FE_COMP_XPB_TITAN_DESC$"
+NHSC_FE_COMP_XPB_ESCORT:  "$NHSC_FE_COMP_XPB_TITAN$"
+NHSC_FE_COMP_XPB_ESCORT_DESC: "$NHSC_FE_COMP_XPB_TITAN_DESC$"
+
+NHSC_FE_COMP_XPL_TITAN: "Советник галактической стражи"
+NHSC_FE_COMP_XPL_TITAN_DESC: "Мир через превосходящую огневую мощь."
+NHSC_FE_COMP_XPL_BATTLECRUISER: "$NHSC_FE_COMP_XPL_TITAN$"
+NHSC_FE_COMP_XPL_BATTLECRUISER_DESC: "$NHSC_FE_COMP_XPL_TITAN_DESC$"
+NHSC_FE_COMP_XPL_ESCORT: "$NHSC_FE_COMP_XPL_TITAN$"
+NHSC_FE_COMP_XPL_ESCORT_DESC: "$NHSC_FE_COMP_XPL_TITAN_DESC$"
+
+NHSC_FE_COMP_MCH_TITAN: "Матрица хранителя"
+NHSC_FE_COMP_MCH_TITAN_DESC: "Специализированная компьютерная система, предназначенная для борьбы с машинами уничтожения."
+NHSC_FE_COMP_MCH_BATTLECRUISER: "$NHSC_FE_COMP_MCH_TITAN$"
+NHSC_FE_COMP_MCH_BATTLECRUISER_DESC: "$NHSC_FE_COMP_MCH_TITAN_DESC$"
+NHSC_FE_COMP_MCH_ESCORT: "$NHSC_FE_COMP_MCH_TITAN$"
+NHSC_FE_COMP_MCH_ESCORT_DESC: "$NHSC_FE_COMP_MCH_TITAN_DESC$"
+
+NHSC_AI_COMPUTER: "Органическая уничтожающая нейросеть"
+NHSC_AI_COMPUTER_DESC: "Боевой компьютер оптимизированный для убийства презренных мешков с костями."
+
+NHSC_EXTRADIMENSIONAL_1: "дезинтегратор материи"
+NHSC_EXTRADIMENSIONAL_1_DESC: ""Привет" из другого измерения, в основе технологии дезинтегратора материи лежит обход нескольких физических законов для более разрушительного эффекта."
+SMALL_NHSC_ED_WEAPON: "Малый $NHSC_EXTRADIMENSIONAL_1$"
+SMALL_NHSC_ED_WEAPON_DESC: "$NHSC_EXTRADIMENSIONAL_1_DESC$"
+MEDIUM_NHSC_ED_WEAPON: "Средний $NHSC_EXTRADIMENSIONAL_1$"
+MEDIUM_NHSC_ED_WEAPON_DESC: "$NHSC_EXTRADIMENSIONAL_1_DESC$"
+LARGE_NHSC_ED_WEAPON: "Большой $NHSC_EXTRADIMENSIONAL_1$"
+LARGE_NHSC_ED_WEAPON_DESC: "$NHSC_EXTRADIMENSIONAL_1_DESC$"
+
+MEDIUM_NHSC_PROBE_LIGHTNING: "Неопознанный излучатель энергии"
+MEDIUM_NHSC_PROBE_LIGHTNING_DESC: "Необычный вид оружия, этот излучатель энергии очень похож на другое энергетическое оружие по своим функциям, но работает с частотой и в спектре, никогда ранее не используемом."
+
+NHSC_SCOURGE_MISSILE_1: "$nhsc_tech_scourge_missile_1$"
+NHSC_SCOURGE_MISSILE_1_DESC: "Карающая ракета нагружена большим количеством биохимических соединений, используемых роем в межзвездном бою, доказав свою эффективность в отношении даже самых тяжелых боевых кораблей."
+LARGE_NHSC_SCOURGE_MISSILE_1: "$nhsc_tech_scourge_missile_1$"
+LARGE_NHSC_SCOURGE_MISSILE_1_DESC: "$NHSC_SCOURGE_MISSILE_1_DESC$"
+
+NHSC_SPACEPORT_SCOURGE_MISSILE: "карающая ракета космопорта"
+NHSC_SPACEPORT_SCOURGE_MISSILE_DESC: "$NHSC_SCOURGE_MISSILE_1_DESC$"
+SMALL_NHSC_SPACEPORT_SCOURGE_MISSILE: "Малая $NHSC_SPACEPORT_SCOURGE_MISSILE$"
+SMALL_NHSC_SPACEPORT_SCOURGE_MISSILE_DESC: "$NHSC_SCOURGE_MISSILE_1_DESC$"
+MEDIUM_NHSC_SPACEPORT_SCOURGE_MISSILE: "Средняя $NHSC_SPACEPORT_SCOURGE_MISSILE$"
+MEDIUM_NHSC_SPACEPORT_SCOURGE_MISSILE_DESC: "$NHSC_SCOURGE_MISSILE_1_DESC$"
+LARGE_NHSC_SPACEPORT_SCOURGE_MISSILE: "Большая $NHSC_SPACEPORT_SCOURGE_MISSILE$"
+LARGE_NHSC_SPACEPORT_SCOURGE_MISSILE_DESC: "$NHSC_SCOURGE_MISSILE_1_DESC$"
+
+NHSC_SCOURGE_PROJECTILE_WEAPON: "Карающий кислотный взрыв"
+NHSC_SCOURGE_PROJECTILE_WEAPON_DESC: "Вложенные в баллистические капсулы высоко-коррозионное органическое вещество, используемое в орбитальной бомбардировке роя, можно переупаковать как корабельные боеприпасы."
+MEDIUM_NHSC_SCOURGE_PROJECTILE_WEAPON: "$NHSC_SCOURGE_PROJECTILE_WEAPON$"
+MEDIUM_NHSC_SCOURGE_PROJECTILE_WEAPON_DESC: "$NHSC_SCOURGE_PROJECTILE_WEAPON_DESC$"
+SMALL_NHSC_SCOURGE_PROJECTILE_WEAPON: "$NHSC_SCOURGE_PROJECTILE_WEAPON$"
+SMALL_NHSC_SCOURGE_PROJECTILE_WEAPON_DESC: "$NHSC_SCOURGE_PROJECTILE_WEAPON_DESC$"
+
+NHSC_SWARM_STRIKE_CRAFT_1: "Штурмовики роя"
+NHSC_SWARM_STRIKE_CRAFT_1_DESC: "Клонированные, миниатюрные образцы преторианцев, которые можно контролировать с помощью длины волны, близкой к той, которую мы используем для внутренней связи флота, благодаря этому мы получаем эффективные штурмовики."
+
+########################################
+###           Technologies           ###
+########################################
+
+nhsc_tech_extradimensional_weapon_1: "Подпространственное вооружение"
+nhsc_tech_extradimensional_weapon_1_desc: "Применение 5-мерных принципов манипуляции энергией на плоскостях более низких размеров позволяет создать мощное энергетическое оружие."
+
+nhsc_tech_scourge_missile_1: "Карающие ракеты"
+nhsc_tech_scourge_missile_1_desc: "Проанализировав биологическое оружие, используемое роем, мы можем создавать самоходные снаряды, несущие такие же ужасающие разрушения."
+
+nhsc_tech_swarm_strike_craft_1: "Нерестовый бассейн роя"
+nhsc_tech_swarm_strike_craft_1_desc: "Сбор образцов из побежденного преторианца позволит его клонировать и генетически программировать выводок наших собственных."
